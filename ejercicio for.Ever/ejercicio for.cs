@@ -1,4 +1,4 @@
-using Syste; 
+using System; 
 class Program { 
     static void Main(string[] args) {
         Console.Write("Introduce tu número entero: ");
